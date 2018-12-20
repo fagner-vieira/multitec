@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.topo01{
+    padding: 2%;
+}
+
+.bg01{
+    background-image: url(../images/bgOne.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+
+.txtOne{
+    font-size: 5em;
+    font-weight: 100;
+    color: #444444;
+    text-align: left;
+    letter-spacing: 11px;
+    margin-top: 12px;
+    margin-left: -40px;
+}
+
+.txtOneB{
+    font-size: 1.5em;
+    font-weight: 100;
+    color: #444444;
+    text-align: right;
+    letter-spacing: 6px;
+    margin-top: -25px;
+    margin-right: 77px;
+}
+
+.txtOneC{
+    color: #01cd88;
+    text-align: right;
+    font-size: 1.5em;
+    line-height: 20px;
+    padding-left: 8px;
+}
+
+.txtOneD{
+    color: #01cd88;
+    font-size: 3.5em;
+    font-weight: 700;
+    letter-spacing: 5px;
+    margin-left: 14px;
+    margin-top: -16px;
+}
+
+.centavos{
+    color: #01cd88;
+    font-size: 1.4em;
+    text-align: left;
+    margin-left: -60px;
+}
+
+.tiraM{
+    margin: 0;
+    padding: 0;
+}
+
+.txtOneE{
+    color: #01cd88;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 0;
+}
+
+.marginL{
+    padding-top: 18px;
+    margin-left: -75px;
+}
+
+.espaco{
+    margin-top: 20px;
+}
+
+.topo02{
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
