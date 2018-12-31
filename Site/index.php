@@ -107,8 +107,13 @@
 			</div>
 		</div>
 	
-		<div class="container-fluid">
-			<div class="container">
+		<div class="container-fluid bgProd">
+			<div class="container bgProd2">
+				<div class="row">
+					<div class="col-lg-12">
+						<p class="tituloProd">a oportunidade que você <br/>estava esperando!</p>
+					</div>
+				</div>
 				<div class="row marginProd">
 					<div class="col-lg-3">
 						<img src="images/img01.png" class="img-responsive center-block" alt="">

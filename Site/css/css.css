@@ -166,5 +166,25 @@ body {
 
   .marginProd{
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 8%;
+  }
+
+  .tituloProd{
+    color: #1b75bb;
+    text-align: center;
+    margin-top: 8%;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 2em;
+  }
+
+  .bgProd{
+    background-image: url(../images/bgProd01.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+  }
+  .bgProd2{
+    background-image: url(../images/bgProd02.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
   }
