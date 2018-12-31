@@ -107,7 +107,80 @@
 			</div>
 		</div>
 	
-									
+		<div class="container-fluid">
+			<div class="container">
+				<div class="row marginProd">
+					<div class="col-lg-3">
+						<img src="images/img01.png" class="img-responsive center-block" alt="">
+						<p class="txtProdOne">MULTI 1002</p>
+						<p class="txtProdTwo">Poltrona MultiUno<br/> presidente, base preta<br/> piramidal...</p>
+						<div class="row">
+							<div class="col-lg-3">
+								<p class="txtProdThree">Por:<br/>10x</p>
+							</div>
+							<div class="col-lg-6 tiraM">
+									<p class="txtProdFour">R$ 117</p>
+							</div>
+							<div class="col-lg-2 tiraM">
+								<p class="centavosTwo">,49</p>
+							</div>
+						</div>
+						<p class="txtProdFive">Ou R$ 1.119,00 à vista.</p>
+					</div>
+					<div class="col-lg-3">
+						<img src="images/img02.png" class="img-responsive center-block" alt="">
+						<p class="txtProdOne">MULTI 1004</p>
+						<p class="txtProdTwo">Poltrona MultiUno<br/> diretor, base preta<br/> piramidal...</p>
+						<div class="row">
+							<div class="col-lg-3">
+								<p class="txtProdThree">Por:<br/>10x</p>
+							</div>
+							<div class="col-lg-6 tiraM">
+									<p class="txtProdFour">R$ 105</p>
+							</div>
+							<div class="col-lg-2 tiraM">
+								<p class="centavosTwo">,94</p>
+							</div>
+						</div>
+						<p class="txtProdFive">Ou R$ 1.009,00 à vista.</p>
+					</div>
+					<div class="col-lg-3">
+						<img src="images/img03.png" class="img-responsive center-block" alt="">
+						<p class="txtProdOne">MULTI 1008</p>
+						<p class="txtProdTwo">Poltrona MultiUno<br/> diálogo, fixa, base <br/>suspensa...</p>
+						<div class="row">
+							<div class="col-lg-3">
+								<p class="txtProdThree">Por:<br/>10x</p>
+							</div>
+							<div class="col-lg-6 tiraM">
+									<p class="txtProdFour">R$ 51</p>
+							</div>
+							<div class="col-lg-2 tiraM">
+								<p class="centavosTwo">,34</p>
+							</div>
+						</div>
+						<p class="txtProdFive">Ou R$ 489,00 à vista.</p>
+					</div>
+					<div class="col-lg-3">
+						<img src="images/img04.png" class="img-responsive center-block" alt="">
+						<p class="txtProdOne">MULTI 2001</p>
+						<p class="txtProdTwo">Poltrona MultiDue<br/>diretor, base piramidal, <br/>mecanismo syncron...</p>
+						<div class="row">
+							<div class="col-lg-3">
+								<p class="txtProdThree">Por:<br/>10x</p>
+							</div>
+							<div class="col-lg-6 tiraM">
+									<p class="txtProdFour">R$ 103</p>
+							</div>
+							<div class="col-lg-2 tiraM">
+								<p class="centavosTwo">,84</p>
+							</div>
+						</div>
+						<p class="txtProdFive">Ou R$ 989,00 à vista.</p>
+					</div>
+				</div>
+			</div>
+		</div>					
 
 
 

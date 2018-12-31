@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,700');
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,300,400,700');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 
 .topo01{
     padding: 2%;
@@ -120,4 +124,47 @@
 
   .marginProd{
     margin-top: 5%;
+  }
+
+  .txtProdOne{
+    color: #444;
+    font-size: 2.5em;
+    text-align: center;
+  }
+
+  .txtProdTwo{
+    color: #888;
+    text-align: center;
+    font-size: 1.2em;
+  }
+
+  .txtProdThree{
+    color: #1b75bb;
+    font-size: 1em;
+    text-align: right;
+  }
+
+  .txtProdFour{
+    color: #1b75bb;
+    font-size: 2.2em;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-align: center;
+  }
+
+  .centavosTwo{
+    color: #1b75bb;
+    font-size: 1em;
+    margin-top: 10px;
+  }
+
+  .txtProdFive{
+    color: #1b75bb;
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  .marginProd{
+    margin-top: 5%;
+    margin-bottom: 5%;
   }
