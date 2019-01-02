@@ -18,7 +18,7 @@
   </head>
   <body>
 
-		<div class="container-fluid">
+		<div class="container-fluid" id="topo">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 topo01">
@@ -185,7 +185,23 @@
 					</div>
 				</div>
 			</div>
-		</div>					
+		</div>
+		
+		<div class="container-fluid bgFooter">
+			<div class="container">
+				<div class="row marginOne">
+					<div class="col-lg-12 imgBlock marginTwo"> 
+						<p class="txtFooter">Solicite agora seu orçamento e <br/>ganhe um super desconto</p>
+						<p><a href="#topo" class="btnSolicitar">Solicitar agora</a></p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-12">
+						<p class="txtRodape">© Todos os direitos reservados Multitec.</p>
+					</div>
+				</div>
+			</div>
+		</div>
 
 
 
