@@ -33,20 +33,20 @@
 				<div class="row topo02">
 					<div class="col-lg-8 marginProd">
 						<div class="row">
-							<div class="col-lg-6">
+							<div class="col-lg-6 col-xs-6 col-sm-6">
 								<img src="images/produto.png" class="img-responsive" alt="">
 							</div>
-							<div class="col-lg-6 marginL">
+							<div class="col-lg-6 col-xs-6 col-sm-6 marginL">
 									<p class="txtOne">MultiUno</p>
 									<p class="txtOneB">Executiva</p>
 									<div class="row espaco">
-										<div class="col-lg-2 tiraM">
+										<div class="col-lg-2 col-xs-2 col-sm-2 tiraM">
 											<p class="txtOneC">Por:<br/>10x</p>
 										</div>
-										<div class="col-lg-8 tiraM">
+										<div class="col-lg-8 col-xs-8 col-sm-8 tiraM">
 												<p class="txtOneD">R$ 101</p>
 										</div>
-										<div class="col-lg-2 tiraM">
+										<div class="col-lg-2 col-xs-2 col-sm-2 tiraM">
 											<p class="centavos">,74</p>
 										</div>
 									</div>
@@ -120,13 +120,13 @@
 						<p class="txtProdOne">MULTI 1002</p>
 						<p class="txtProdTwo">Poltrona MultiUno<br/> presidente, base preta<br/> piramidal...</p>
 						<div class="row">
-							<div class="col-lg-3">
+							<div class="col-lg-3 col-xs-3 col-sm-3 empurra">
 								<p class="txtProdThree">Por:<br/>10x</p>
 							</div>
-							<div class="col-lg-6 tiraM">
+							<div class="col-lg-6 col-xs-6 col-sm-6 tiraM2">
 									<p class="txtProdFour">R$ 117</p>
 							</div>
-							<div class="col-lg-2 tiraM">
+							<div class="col-lg-2 col-xs-2 col-sm-2 tiraM2">
 								<p class="centavosTwo">,49</p>
 							</div>
 						</div>
@@ -137,13 +137,13 @@
 						<p class="txtProdOne">MULTI 1004</p>
 						<p class="txtProdTwo">Poltrona MultiUno<br/> diretor, base preta<br/> piramidal...</p>
 						<div class="row">
-							<div class="col-lg-3">
+							<div class="col-lg-3 col-xs-3 col-sm-3 empurra">
 								<p class="txtProdThree">Por:<br/>10x</p>
 							</div>
-							<div class="col-lg-6 tiraM">
+							<div class="col-lg-6 col-xs-6 col-sm-6 tiraM2">
 									<p class="txtProdFour">R$ 105</p>
 							</div>
-							<div class="col-lg-2 tiraM">
+							<div class="col-lg-2 col-xs-2 col-sm-2 tiraM2">
 								<p class="centavosTwo">,94</p>
 							</div>
 						</div>
@@ -154,13 +154,13 @@
 						<p class="txtProdOne">MULTI 1008</p>
 						<p class="txtProdTwo">Poltrona MultiUno<br/> diálogo, fixa, base <br/>suspensa...</p>
 						<div class="row">
-							<div class="col-lg-3">
+							<div class="col-lg-3 col-xs-3 col-sm-3 empurra">
 								<p class="txtProdThree">Por:<br/>10x</p>
 							</div>
-							<div class="col-lg-6 tiraM">
+							<div class="col-lg-6 col-xs-6 col-sm-6 tiraM2">
 									<p class="txtProdFour">R$ 51</p>
 							</div>
-							<div class="col-lg-2 tiraM">
+							<div class="col-lg-2 col-xs-2 col-sm-2 tiraM2">
 								<p class="centavosTwo">,34</p>
 							</div>
 						</div>
@@ -171,13 +171,13 @@
 						<p class="txtProdOne">MULTI 2001</p>
 						<p class="txtProdTwo">Poltrona MultiDue<br/>diretor, base piramidal, <br/>mecanismo syncron...</p>
 						<div class="row">
-							<div class="col-lg-3">
+							<div class="col-lg-3 col-xs-3 col-sm-3 empurra">
 								<p class="txtProdThree">Por:<br/>10x</p>
 							</div>
-							<div class="col-lg-6 tiraM">
+							<div class="col-lg-6 col-xs-6 col-sm-6 tiraM2">
 									<p class="txtProdFour">R$ 103</p>
 							</div>
-							<div class="col-lg-2 tiraM">
+							<div class="col-lg-2 col-xs-2 col-sm-2 tiraM2">
 								<p class="centavosTwo">,84</p>
 							</div>
 						</div>
