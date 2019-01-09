@@ -21,17 +21,20 @@
 		<div class="container-fluid" id="topo">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-12 topo01">
+					<div class="col-lg-6 topo01">
 						<img src="images/logo.png" class="img-responsive center-block" alt="">
+					</div>
+					<div class="col-lg-6 topo01">
+						<p class="link"><a href="#lojas">Nossas Lojas</a></p>
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> 
 
 		<div class="container-fluid bg01">
 			<div class="container">
 				<div class="row topo02">
-					<div class="col-lg-8 marginProd">
+					<div class="col-lg-8 col-md-8 col-sm-8 marginProd">
 						<div class="row">
 							<div class="col-lg-6 col-xs-6 col-sm-6">
 								<img src="images/produto.png" class="img-responsive" alt="">
@@ -44,10 +47,10 @@
 											<p class="txtOneC">Por:<br/>10x</p>
 										</div>
 										<div class="col-lg-8 col-xs-8 col-sm-8 tiraM">
-												<p class="txtOneD">R$ 101</p>
+												<p class="txtOneD">R$ 99</p>
 										</div>
 										<div class="col-lg-2 col-xs-2 col-sm-2 tiraM">
-											<p class="centavos">,74</p>
+											<p class="centavos">,90</p>
 										</div>
 									</div>
 									<p class="txtOneE">Ou R$ 969,00 à vista.</p>
@@ -55,7 +58,7 @@
 						</div>
 					</div>
 
-					<div class="col-lg-4 twoProduct">
+					<div class="col-lg-4 col-md-4 col-sm-4 twoProduct">
 						<p class="txtTwo">Garanta seu orçamento<br/>com desconto</p>
                     	<p class="txtTwoB">Aproveite essa<br/>oportunidade incrível!</p>
                     	<p class="formBox">
@@ -193,6 +196,36 @@
 					<div class="col-lg-12 imgBlock marginTwo"> 
 						<p class="txtFooter">Solicite agora seu orçamento e <br/>ganhe um super desconto</p>
 						<p><a href="#topo" class="btnSolicitar">Solicitar agora</a></p>
+					</div>
+				</div>
+				<div class="row" id="lojas">
+					<div class="col-lg-1">
+						<p>&nbsp;</p>
+					</div>
+					<div class="col-lg-2">
+						<p class="txtLojasA">São Paulo<br/>Vila Olímpia</p>
+						<p class="txtLojasB">Av. dos Bandeirantes, 1963<br/>band@multitec.com.br</p>
+					</div>
+					<div class="col-lg-2">
+						<p class="txtLojasA">São Paulo<br/>D&D | Piso Superior</p>
+						<p class="txtLojasB">Av. Nações Unidas, 12.555<br/>Lj. 317 - Piso Superior<br/>Itaim Bibi<br/>dd317@multitec.com.br</p>
+					</div>
+					<div class="col-lg-2">
+						<p class="txtLojasA">Santos</p>
+						<p class="txtLojasB">Av. Ana Costa, 104<br/>Vila Mathias<br/>santos@multitec.com.br</p>
+					</div>
+					<div class="col-lg-2">
+						<p class="txtLojasA">São Paulo<br/>Jardins</p>
+						<p class="txtLojasB">Alameda Gabriel Monteiro da Silva, 755<br/>Jardim Paulistano<br/>jardins@multitec.com.br</p>
+					</div>
+					<div class="col-lg-2">
+						<p class="txtLojasA">Rio de Janeiro<br/>Casa Shopping</p>
+						<p class="txtLojasB">Av. Ayrton Senna, 2150<br/>Barra da Tijuca<br/>Bloco B - Loja 105<br/>cs@multitec.com.br</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-12" style="text-align:center; margin-top: 3%;">
+						<p><a href="http://multitec.com.br" target="_blank" class="btnSolicitar">Conheça nosso site</a></p>
 					</div>
 				</div>
 				<div class="row">
