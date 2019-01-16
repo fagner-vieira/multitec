@@ -15,6 +15,16 @@
 		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132332859-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-132332859-1');
+	</script>
   </head>
   <body>
 
@@ -63,8 +73,8 @@
                     	<p class="txtTwoB">Aproveite essa<br/>oportunidade incrível!</p>
                     	<p class="formBox">
                         	<form class="form-horizontal" name="form-gohotsale" id="form-gohotsale" method="POST" action="https://gohotsale.com.br/leads" novalidate>
-                            	<input type="hidden" name="hotsite" id="hotsite" value="casa-toda-favorita-hotpage">
-                            	<input type="hidden" name="company" id="company" value="favorita-mov-decor">
+                            	<input type="hidden" name="hotsite" id="hotsite" value="hotsite-multitec">
+								<input type="hidden" name="company" id="company" value="multitec">
                             	<fieldset class="col-md-12">
                             	<?php if(isset($_GET['error']) && $_GET['error'] === 'profanity') { ?>
                             	<div class="alert alert-danger" role="alert"> <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Erro:</span> Seja mais educado! </div>
@@ -243,5 +253,22 @@
 
 	<!-- Include all compiled plugins (below), or include individual files as needed --> 
 	<script src="js/bootstrap.js"></script>
+
+	<script src="https://gohotsale.com.br/gohotsale.js"></script>
+
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <script type="text/javascript">
+        if (window.location.href.indexOf('?message=') > 0) {
+            swal({
+                title: "Sucesso",
+                text: "Recebemos sua mensagem, entraremos em contato o mais breve possível.",
+                icon: "success",
+                button: "Fechar",
+            });
+        }
+    </script>
+
+    <div id="go-hot-chat-container"></div><script>$(function(){$("#go-hot-chat-container").load("https://gohotsale.com.br/chatbox/40/multitec/hotsite-multitec");});</script>
   </body>
 </html>
